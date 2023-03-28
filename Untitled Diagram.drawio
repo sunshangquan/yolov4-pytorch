@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T03:25:50.105Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ncQBeUYbx89CXVGPBbLC" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T03:33:32.418Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jvKINa_kui3QTdG8fyaV" version="21.1.1" type="github">
   <diagram name="Page-1" id="Bbi1exefk0Ek5RUEpcpd">
     <mxGraphModel dx="1060" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="3EPdU6W2R7ERKH5k_RKv-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.camera;" parent="1" vertex="1">
           <mxGeometry x="120" y="295" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3EPdU6W2R7ERKH5k_RKv-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#0000CC;imageAspect=0;image=https://cdn1.iconfinder.com/data/icons/ionicons-outline-vol-2/512/water-outline-128.png;recursiveResize=1;perimeter=rectanglePerimeter;collapsible=0;movable=1;resizeWidth=0;fixedWidth=0;portConstraintRotation=0;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;aspect=fixed;flipH=0;fillColor=#0000FF;strokeColor=#0000CC;" parent="1" vertex="1">
-          <mxGeometry x="290" y="160" width="29.48" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zaTpepWHVZMuqjSjkpA7-189" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="70" y="480" width="210" height="210" as="geometry" />
@@ -516,6 +513,15 @@
           <mxGeometry x="133" width="17" height="17" as="geometry">
             <mxRectangle width="17" height="17" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zaTpepWHVZMuqjSjkpA7-196" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="336" y="273" width="50" height="100.32411613907038" as="geometry" />
+        </mxCell>
+        <mxCell id="zaTpepWHVZMuqjSjkpA7-190" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.drop;fillColor=#007FFF;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="zaTpepWHVZMuqjSjkpA7-196">
+          <mxGeometry width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zaTpepWHVZMuqjSjkpA7-194" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=10;rotation=-135;strokeColor=none;" vertex="1" parent="zaTpepWHVZMuqjSjkpA7-196">
+          <mxGeometry x="24" y="67" width="17" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
